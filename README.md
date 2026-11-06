@@ -7,6 +7,9 @@
 Чёрное стекло, белые буквы, красный — только на акценты: активный пункт,
 цифры, живая точка, новорождённые клетки.
 
+**[Скачать GlythMinis 1.1 для Windows](https://github.com/vvixter84-jpg/GlythMinis/releases/latest)** —
+zip, распаковать и запустить `GlythMinis.exe`, Python не нужен.
+
 ![Меню GlythMinis](docs/menu.png)
 
 ## Запуск
